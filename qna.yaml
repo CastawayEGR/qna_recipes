@@ -101,7 +101,8 @@ seed_examples:
           What are the key ingredients used in the preparation of Pulpo Gallego?
         answer: |
           The key ingredients include octopus, sweet Spanish paprika, coarse salt, Spanish extra-virgin olive oil, and large potatoes (preferably Kennebec potatoes).
-      - question: Why is the process of "scaring" the octopus important in cooking Pulpo Gallego?
+      - question: |
+          Why is the process of "scaring" the octopus important in cooking Pulpo Gallego?
         answer: |
           The process of "scaring" the octopus is important because it helps prevent the skin from coming off during cooking, ensuring a better texture and presentation.
       - question: |
