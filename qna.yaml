@@ -106,7 +106,35 @@ seed_examples:
       - question: | How should the sauce be used?
           
         answer: | Pour it on the Fry fish
-
+  - context: |
+      ## Ingredients :
+      ● 1 dash sweet Spanish paprika ("pimentón")
+      ● Coarse salt
+      ● 1/4 cup Spanish extra-virgin olive oil
+      ● 4 large potatoes (Kennebec potatoes preferred)
+      ● 1 octopus (2kg)
+      ## Procedure:
+      ● First of all: To soften the octopus, freeze the octopus first. Let defrost before cooking, then rinse it under cold water to clean.
+      ● Fill a large pot with water and put it on the heat (don't add salt).
+      ● When it starts to boil, we have to "scare" the octopus. This consists of taking the octopus by the head and dipping it in and out of the boiling water three times (about 5 seconds each time). This is done so that the skin does not come off during further cooking.
+      ● Put the octopus in the water and once it starts to boil again, we let it cook for about 30 - 35 minutes (you should prick it from time to time with a toothpick to see how it is developing).
+      ● Once the cooking time is over, turn off the heat and let the octopus rest for another 15 minutes
+      ● Transfer the octopus to a bowl and put the potatoes, well cleaned, with skin on and cut in half, in the same water. Let them cook for about 15 minutes (it will depend on the size, so again, it is a good idea to prick them with a toothpick from time to time to see if they are ready). In Galicia, they call this potatoes' preparation cachelos .
+      ● Remove the skin from the potatoes, slice them and place them on the bottom of the plate.
+      ● With kitchen scissors we cut the tentacles of the octopus in pieces of 1 centimeter, the part of the head in smaller pieces and we place them on the potatoes.
+      ● Add coarse salt and sprinkle with sweet or spicy paprika to taste. Drizzle all the ingredients with extra virgin olive oil.
+    questions_and_answers:
+      - question: |
+          What are the key ingredients used in the preparation of Pulpo Gallego?
+        answer: |
+          The key ingredients include octopus, sweet Spanish paprika, coarse salt, Spanish extra-virgin olive oil, and large potatoes (preferably Kennebec potatoes).
+      - question: Why is the process of "scaring" the octopus important in cooking Pulpo Gallego?
+        answer: |
+          The process of "scaring" the octopus is important because it helps prevent the skin from coming off during cooking, ensuring a better texture and presentation.
+      - question: |
+          How do traditional Galician cooks enhance the flavor of the dish when serving it on wooden platters?
+        answer: |
+          Traditional Galician cooks enhance the flavor by soaking the wooden platter in the octopus cooking water before plating. This adds flavor and helps keep the dish warm during the meal.
 
 
 
