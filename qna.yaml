@@ -3,60 +3,30 @@ domain: recipes
 created_by: team_2
 seed_examples:
   - context: |
-      ## Recipe Name: Sweet & Sour Chicken (EASY!)
-
+      ## Recipe Name: Sweet & Sour Chicken
       ## Ingredients :
-
       ● Chicken breast (300grams)
-
       ● Salt (1 teaspoon)
-
       ● Egg white (1 egg)
-
       ● White wine/cooking wine (½ spoon)
-
       ● Ketchup (4 spoons)
-
       ● Corn starch (80grams)
-
       ● White vinegar (2 spoons)
-
       ● Sugar (2 spoons)
-
       ● Crushed Garlic (1 spoon)
-
-      ● Oil (enough oil…-->chinese cuisine is very inaccurate haha)
-
+      ● Oil
       ● Sesame (1 spoon)
-
-      ## Procedure:
-
-      ● Cut the chicken breast into pinky-like thick strips, put them in a bowl, add salt, egg white, white wine and marinate for 10-15 minute.
-
-      ● During this time, prepare the sweet and sour sauce ingredients: cut garlic into puree, ketchup, sugar, and white vinegar.
-
-      ● Pour the cornstarch into a large bowl, place the chicken strips on the cornstarch in turn, coat the cornstarch evenly, pat off the exces sflo ur, and put it on another plate.
-
-      ● Pour enough oil into the pot, use high heat to 60% hot, turn to medium/low heat, put the meat strips one by one, fry until the meat strips float on the oil surface and then take it out (about one minute). Reheat the oil with high heat, when the oil reaches 80 hot, pour in the meat strips and re-fry until golden brown, then put it on a plate.[1]
-
+      ● Cut the chicken breast into pinky-like thick strips, add salt, egg white, white wine and marinate for 10-15 minute.
+      ● Prepare the sweet and sour sauce ingredients: cut garlic into puree, ketchup, sugar, and white vinegar.
+      ● Pour the cornstarch into a large bowl, place the chicken strips on the cornstarch in turn, coat the cornstarch evenly, pat off the excess flour.
+      ● Pour oil into the pot, use high heat to 60% hot, turn to medium/low heat, put the meat strips one by one, fry until the meat strips float on the oil surface and then take it out (about one minute). Reheat the oil with high heat, when the oil reaches 80 hot, pour in the meat strips and re-fry until golden brown, then put it on a plate.
       ● Leave the excess oil in the pan, adjust to medium heat and sauté the crushed garlic.
-
       ● Pour the ketchup and sugar and stir constantly with a spatula.
-
-      ● Slowly, the color of the sweet and sour sauce will turn red, then pour in the cooked sesame seeds the white vinegar and continue stirring.
-
-      ● When the sweet and sour sauce becomes thick and red, pour in the fried meat strips.[2]
-
-      ● Quickly stir to make the meat strips evenly covered with sweet and sour sauce. Then the traditional Chinese Sweet & Sour Chicken is ready to be served!
-
+      ● Slowly, the color of the sweet and sour sauce will turn red, then pour in the cooked sesame seeds the white vinegar and stir.
+      ● When the sweet and sour sauce becomes thick and red, pour in the fried meat strips.
+      ● Quickly stir to make the meat strips evenly covered with sweet and sour sauce. 
       ## Tips:
-
-      1.60% hot: The foam on the oil surface basically disappears, there is a noise when stirring.
-
-      80% hot: The oil surface is calm, there is a noise when stirred, and smoke is seen.
-
-      2. Sauce ready for meat strips (bubbles on surface)
-
+      Sauce ready for meat strips (bubbles on surface)
     questions_and_answers:
       - question: |
           What are the key ingredients needed to marinate the chicken for the Sweet & Sour Chicken recipe?
@@ -139,11 +109,8 @@ seed_examples:
         answer: |
           Traditional Galician cooks enhance the flavor by soaking the wooden platter in the octopus cooking water before plating. This adds flavor and helps keep the dish warm during the meal.
 
-
-
 document_outline: |
-  Information about the Phoenix Constellation including the
-  history, characteristics, and features of the stars in the constellation.
+  Collection of recipes of recipes.
 document:
   repo: https://github.com/kelbrown20/taxonomy-sample
   commit: 19315858f93d853d3fc272d1ea4b1d5e0447fb50
