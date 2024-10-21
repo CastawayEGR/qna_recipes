@@ -311,6 +311,6 @@ document_outline: |
   Recipes cookbook for traditional and popular dishes from all over the world.
 document:
   repo: https://github.com/CastawayEGR/qna_recipes
-  commit: 19315858f93d853d3fc272d1ea4b1d5e0447fb50
+  commit: 9f32a8dc2af60aa2fa0a1a91cf0c33cc67e0afb4
   patterns:
     - Cookbook-1.md
