@@ -1,0 +1,80 @@
+version: 3
+domain: recipes
+created_by: mtipton
+seed_examples:
+  - context: |
+      ## Recipe Name: Sweet & Sour Chicken (EASY!)
+
+      ## Ingredients :
+
+      ● Chicken breast (300grams)
+
+      ● Salt (1 teaspoon)
+
+      ● Egg white (1 egg)
+
+      ● White wine/cooking wine (½ spoon)
+
+      ● Ketchup (4 spoons)
+
+      ● Corn starch (80grams)
+
+      ● White vinegar (2 spoons)
+
+      ● Sugar (2 spoons)
+
+      ● Crushed Garlic (1 spoon)
+
+      ● Oil (enough oil…-->chinese cuisine is very inaccurate haha)
+
+      ● Sesame (1 spoon)
+
+      ## Procedure:
+
+      ● Cut the chicken breast into pinky-like thick strips, put them in a bowl, add salt, egg white, white wine and marinate for 10-15 minute.
+
+      ● During this time, prepare the sweet and sour sauce ingredients: cut garlic into puree, ketchup, sugar, and white vinegar.
+
+      ● Pour the cornstarch into a large bowl, place the chicken strips on the cornstarch in turn, coat the cornstarch evenly, pat off the exces sflo ur, and put it on another plate.
+
+      ● Pour enough oil into the pot, use high heat to 60% hot, turn to medium/low heat, put the meat strips one by one, fry until the meat strips float on the oil surface and then take it out (about one minute). Reheat the oil with high heat, when the oil reaches 80 hot, pour in the meat strips and re-fry until golden brown, then put it on a plate.[1]
+
+      ● Leave the excess oil in the pan, adjust to medium heat and sauté the crushed garlic.
+
+      ● Pour the ketchup and sugar and stir constantly with a spatula.
+
+      ● Slowly, the color of the sweet and sour sauce will turn red, then pour in the cooked sesame seeds the white vinegar and continue stirring.
+
+      ● When the sweet and sour sauce becomes thick and red, pour in the fried meat strips.[2]
+
+      ● Quickly stir to make the meat strips evenly covered with sweet and sour sauce. Then the traditional Chinese Sweet & Sour Chicken is ready to be served!
+
+      ## Tips:
+
+      1.60% hot: The foam on the oil surface basically disappears, there is a noise when stirring.
+
+      80% hot: The oil surface is calm, there is a noise when stirred, and smoke is seen.
+
+      2. Sauce ready for meat strips (bubbles on surface)
+
+    questions_and_answers:
+      - question: |
+          What are the key ingredients needed to marinate the chicken for the Sweet & Sour Chicken recipe?
+        answer: |
+          The key ingredients for marinating the chicken include salt (1 teaspoon), egg white (from 1 egg), and white wine (½ spoon).
+      - question: |
+          How should the chicken strips be cooked to achieve the desired texture in the Sweet & Sour Chicken recipe?
+        answer: |
+          The chicken strips should first be fried in oil at 60% hot until they float on the oil surface (about one minute), then re-fried at 80% hot until golden brown for a crispy texture.
+      - question: |
+          What indicates that the sweet and sour sauce is ready to coat the chicken strips?
+        answer: |
+          The sauce is ready when it becomes thick and red, with bubbles forming on the surface.
+document_outline: |
+  Information about the Phoenix Constellation including the
+  history, characteristics, and features of the stars in the constellation.
+document:
+  repo: https://github.com/kelbrown20/taxonomy-sample
+  commit: 19315858f93d853d3fc272d1ea4b1d5e0447fb50
+  patterns:
+    - Cookbook-1.md
