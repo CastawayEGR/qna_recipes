@@ -72,39 +72,34 @@ seed_examples:
           The sauce is ready when it becomes thick and red, with bubbles forming on the surface.
 
   - context: | ## Recipe Name: Fried fish with fish sauce and mango salad
-## Ingredients :
-## Fried fish
-● Fish that you like (Most often use sea bass. You can use only fillet or whole fish.)
-● A bit salt
-● Oil for frying
-## Fish sauce for pour on the fish
-● Fish sauce 3 tablespoons
-● Palm sugar 1 tablespoon
-● Oil 3 tablespoons
-● A bit white pepper
-## Mango salad
-● 1 Sour mango
-● Shallot (as you like)
-● Chili pepper (at least 1)
-● Fish sauce 2 tablespoons
-● Sugar 1 tablespoon
-## Procedure:
-● Fry fish: Put the oil on the pan. Sprinkle a bit of salt on the fish. Deep fry fish over medium heat. After cooking, leave it for a moment to drop the oil out.
-● Cook the fish sauce: Put 3 tablespoons of oil on another pan, set medium heat and put fish sauce and sugar on the pan. After this boiling, put a bit of white pepper and then pour it on the Fry fish.
-● Mango salad: Chop the mango, slice the shallot and chili pepper. Mix mango, shallot, chili pepper, fish sauce, and sugar. Serve it with fried fish.
-## Additional tips/Notes :
-● Most Thai people use sea bass, seerfishes, or tilapia. But this menu can be applied to a wide variety of fish.
+      ## Ingredients :
+      ## Fried fish
+      ● Fish that you like (Most often use sea bass. You can use only fillet or whole fish.)
+      ● A bit salt
+      ● Oil for frying
+      ## Fish sauce for pour on the fish
+      ● Fish sauce 3 tablespoons
+      ● Palm sugar 1 tablespoon
+      ● Oil 3 tablespoons
+      ● A bit white pepper
+      ## Mango salad
+      ● 1 Sour mango
+      ● Shallot (as you like)
+      ● Chili pepper (at least 1)
+      ● Fish sauce 2 tablespoons
+      ● Sugar 1 tablespoon
+      ## Procedure:
+      ● Fry fish: Put the oil on the pan. Sprinkle a bit of salt on the fish. Deep fry fish over medium heat. After cooking, leave it for a moment to drop the oil out.
+      ● Cook the fish sauce: Put 3 tablespoons of oil on another pan, set medium heat and put fish sauce and sugar on the pan. After this boiling, put a bit of white pepper and then pour it on the Fry fish.
+      ● Mango salad: Chop the mango, slice the shallot and chili pepper. Mix mango, shallot, chili pepper, fish sauce, and sugar. Serve it with fried fish.
+      ## Additional tips/Notes :
+      ● Most Thai people use sea bass, seerfishes, or tilapia. But this menu can be applied to a wide variety of fish.
     questions_and_answers:
       - question: | What type of fish should I use?
-          
         answer: | A wide variety of fish, most often sea bass, seerfishes, or tilapia 
-          
       - question: | How should I prepare the fish?
-          
         answer: | You can use only fillet or the whole fish
-          
       - question: | How should the sauce be used?
-          
         answer: | Pour it on the Fry fish
   - context: |
       ## Ingredients :
