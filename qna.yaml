@@ -266,6 +266,47 @@ seed_examples:
           How long should you cook lentils?
         answer: |
           Cook lentils until they are just tender (15-17 minutes).
+  - context: |
+    Recipe Name: Palak Vadi
+    ## Ingredients
+    ● 3 cups chopped Spinach leaves
+    ● 15~20 Garlic cloves
+    ● 4~5 chopped Green chilies
+    ● 1 tsp Cumin seeds
+    ● Carom seeds
+    ● 1 cup Rice flour
+    ● 2~3 tsp Chickpea flour
+    ● 1/4 tsp Turmeric powder
+    ● White sesame seeds
+    ● Salt to taste
+    ● Water
+    ● Oil for shallow frying
+    ## Procedure:
+    ● Wash spinach leaves really good with water and stack them.
+    ● Roll them and cut.
+    ● Take garlic cloves in a blender jar and add green chilies, cumin seeds, carom seeds.
+    ● Blend everything into coarse paste. Add rice flour into spinach leaves.
+    ● Add chickpea flour, turmeric powder, sesame seeds, salt, blended masala and mix everything well together.
+    ● Crush with hand and mix so that moisture will be released from spinach.
+    ● Add a little water at a time and knead stiff dough.      
+    ## Additional tips/Notes :
+    ● You can grease the tray well with oil if you don't have butter paper.
+    ● You can spread a few sesame seeds at the base of the tray.
+    ● You can deep fry the vadi instead of shallow frying.
+    ● It tastes better with ketchup but can also be eaten with mayonnaise.      
+    questions_and_answers:
+      - question: |
+          How many chpped Spinach leaves is needed?
+        answer: |
+          3 cups chopped Spinach leaves are needed.
+      - question: |
+          How the spinach leaves are cocked? 
+        answer: |
+          Wash, roll and cut the spinach leaves.
+      - question: |
+          How many Garlic cloves is needed?
+        answer:
+          15-20 Garlic cloves are needed.
 document_outline: |
   Recipes cookbook for traditional and popular dishes from all over the world.
 document:
