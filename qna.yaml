@@ -71,7 +71,8 @@ seed_examples:
         answer: |
           The sauce is ready when it becomes thick and red, with bubbles forming on the surface.
 
-  - context: | ## Recipe Name: Fried fish with fish sauce and mango salad
+  - context: | 
+      ## Recipe Name: Fried fish with fish sauce and mango salad
       ## Ingredients :
       ## Fried fish
       ● Fish that you like (Most often use sea bass. You can use only fillet or whole fish.)
@@ -95,13 +96,20 @@ seed_examples:
       ## Additional tips/Notes :
       ● Most Thai people use sea bass, seerfishes, or tilapia. But this menu can be applied to a wide variety of fish.
     questions_and_answers:
-      - question: | What type of fish should I use?
-        answer: | A wide variety of fish, most often sea bass, seerfishes, or tilapia 
-      - question: | How should I prepare the fish?
-        answer: | You can use only fillet or the whole fish
-      - question: | How should the sauce be used?
-        answer: | Pour it on the Fry fish
+      - question: | 
+          What type of fish should I use?
+        answer: | 
+          A wide variety of fish, most often sea bass, seerfishes, or tilapia 
+      - question: | 
+          How should I prepare the fish?
+        answer: | 
+          You can use only fillet or the whole fish
+      - question: | 
+          How should the sauce be used?
+        answer: | 
+          Pour it on the Fry fish
   - context: |
+      ## Recipe Name: Pulpo gallego (Galician-style octopus).
       ## Ingredients :
       ● 1 dash sweet Spanish paprika ("pimentón")
       ● Coarse salt
