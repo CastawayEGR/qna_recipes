@@ -250,10 +250,7 @@ seed_examples:
       Now make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding
       the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.
       Cover the chickpeas and warm in the microwave briefly before serving.
-      To serve, fluff the rice and lentils with a fork and transfer to a serving platter.
-      Top with the elbow pasta and ½ of the tomato sauce, then the chickpeas, and finally ½ of the crispy onions for garnish.
-      Serve, passing the remaining sauce and crispy onions separately.
-    questions_and_ansers:
+    questions_and_answers:
       - question: |
           What is the recipe name?
         answer: |
