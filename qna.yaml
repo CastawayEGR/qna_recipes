@@ -109,7 +109,130 @@ seed_examples:
           How do traditional Galician cooks enhance the flavor of the dish when serving it on wooden platters?
         answer: |
           Traditional Galician cooks enhance the flavor by soaking the wooden platter in the octopus cooking water before plating. This adds flavor and helps keep the dish warm during the meal.
+  - context: |
+      Recipe for Dal Makhani a traditional Indian dish made with urad dal spices and cream Ingredients 200g urad dal whole and unhulled 1 cinnamon stick optional 2 black cardamom pods optional 5 tbsp ghee or butter 2 large onions peeled and finely chopped 20g piece fresh ginger peeled and grated 5 garlic cloves peeled and crushed 2 green chillies slit or finely chopped if youd like your dal hotter 1 tsp garam masala 1 tsp ground cumin 1 tsp ground coriander 1/2 tsp Kashmiri red chilli powder 75g tomato puree 150ml double cream 2 tbsp dried fenugreek leaves fresh coriander optional Procedure Soak the dal overnight then rinse well and drain Cover with three times as much cold water and bring to a boil Skim then add the cinnamon stick and cardamom pods if using Simmer until the beans are soft enough to crush easily against the side of the pan topping up the water if necessary because they should always be covered this will probably take 45 minutes to an hour Meanwhile melt four tablespoons of ghee in a large frying pan over a medium heat then gently sweat the onions until soft and golden Stir in the ginger garlic and green chillies cook for another minute or so then stir in all the dried spices apart from the fenugreek leaves and cook stirring for a few minutes more Turn down the heat and stir in first the tomato puree and then gradually the cream and fenugreek Turn off the heat When the dal is ready drain it over a bowl retaining the water then roughly mash so some of the dal is squashed and some remains whole Stir all the dal into the pan with the sauce then over a low heat add just enough of the cooking water to bring it to your desired consistency I like mine quite thick rather than soup Dal makhani can be had with plain rice and a dollop of curd yoghurt and maybe a little bit of Indian pickle It is also enjoyed with a variety of Indian breads like Roti or Naan the word makhani literally means butter
+    questions_and_answers:
+      # Factual
+      - question: |
+          What is the main ingredient in Dal Makhani?
+        answer: |
+          The main ingredient in Dal Makhani is 200g of urad dal, whole and unhulled.
 
+      # Conceptual
+      - question: |
+          Why is Dal Makhani called "makhani"?
+        answer: |
+          Dal Makhani is called "makhani" because the word literally means butter in Hindi. The dish is rich in butter or ghee, which gives it its characteristic creamy texture and flavor.
+      # Procedural
+      - question: |
+          What are the steps to prepare the dal for cooking in Dal Makhani?
+        answer: |
+          The steps to prepare the dal for cooking in Dal Makhani are:
+          1. Soak the dal overnight
+          2. Rinse well and drain
+          3. Cover with three times as much cold water
+          4. Bring to a boil
+          5. Skim the surface
+          6. Add cinnamon stick and cardamom pods (if using)
+          7. Simmer until the beans are soft enough to crush easily against the side of the pan
+
+      # Application
+      - question: |
+          How would you adjust the recipe if you wanted a spicier Dal Makhani?
+        answer: |
+          To make a spicier Dal Makhani, you could:
+          1. Increase the amount of green chillies and finely chop them instead of just slitting them
+          2. Add more Kashmiri red chilli powder
+          3. Include additional spicy ingredients like fresh red chillies or hot pepper flakes
+
+      # Analysis
+      - question: |
+          What are the key factors that contribute to the rich flavor of Dal Makhani?
+        answer: |
+          The key factors contributing to the rich flavor of Dal Makhani are:
+          1. The long cooking time of the urad dal
+          2. The use of ghee or butter
+          3. The blend of aromatic spices (garam masala, cumin, coriander, etc.)
+          4. The addition of cream
+          5. The use of dried fenugreek leaves
+          6. The slow simmering process that allows flavors to meld
+
+      # Synthesis
+      - question: |
+          How could you create a vegan version of Dal Makhani while maintaining its rich flavor?
+        answer: |
+          To create a vegan version of Dal Makhani while maintaining its rich flavor, you could:
+          1. Replace ghee/butter with coconut oil or vegan butter
+          2. Substitute double cream with coconut cream or cashew cream
+          3. Use vegetable stock for added depth of flavor
+          4. Increase the amount of spices to compensate for the lack of dairy richness
+          5. Add a small amount of nutritional yeast for a savory, cheesy flavor
+          6. Use smoked paprika to mimic the richness usually provided by butter
+
+      # Evaluation
+      - question: |
+          What are the pros and cons of using whole urad dal versus split urad dal in Dal Makhani?
+        answer: |
+          Pros of using whole urad dal:
+          1. Traditional and authentic choice
+          2. Provides a better texture with some beans remaining whole
+          3. Takes longer to cook, allowing more time for flavor development
+          
+          Cons of using whole urad dal:
+          1. Requires overnight soaking
+          2. Longer cooking time
+          
+          Pros of using split urad dal:
+          1. Cooks faster
+          2. Doesn't require overnight soaking
+          3. Creates a creamier texture
+          
+          Cons of using split urad dal:
+          1. Less traditional
+          2. May result in a less varied texture
+          3. Shorter cooking time may lead to less developed flavors
+
+      # Troubleshooting
+      - question: |
+          What steps would you take if your Dal Makhani is too watery?
+        answer: |
+          If your Dal Makhani is too watery, you could:
+          1. Continue simmering uncovered to reduce excess liquid
+          2. Mash some of the dal to release starch and thicken the dish
+          3. Add a small amount of cornstarch slurry (cornstarch mixed with cold water)
+          4. Increase the amount of cream to help thicken the consistency
+          5. If all else fails, strain some of the excess liquid
+
+      # Comparison
+      - question: |
+          Compare and contrast Dal Makhani with regular dal preparations.
+        answer: |
+          Dal Makhani vs. Regular Dal:
+          
+          Similarities:
+          1. Both are lentil-based dishes
+          2. Both are staples in Indian cuisine
+          3. Both often served with rice or bread
+          
+          Differences:
+          1. Dal Makhani uses whole urad dal, while regular dal often uses split lentils
+          2. Dal Makhani is richer due to cream and butter, regular dal is usually lighter
+          3. Dal Makhani has a longer cooking time
+          4. Dal Makhani typically uses a specific spice blend, while regular dal varies
+          5. Dal Makhani is a specialty dish, while regular dal is more of an everyday food
+
+      # Scenario-based
+      - question: |
+          You're preparing Dal Makhani for a large gathering but realize you're short on cream. How would you modify the recipe?
+        answer: |
+          To modify the Dal Makhani recipe when short on cream for a large gathering:
+          1. Use the available cream, supplementing with milk or yogurt
+          2. Increase the amount of ghee or butter for richness
+          3. Add cashew paste or ground almonds for creaminess
+          4. Use coconut milk as a non-dairy alternative
+          5. Blend some of the cooked dal to create a creamier texture
+          6. Adjust spices to compensate for the reduced richness
+          7. Consider serving with a side of yogurt or raita to add creaminess at the table
 document_outline: |
   Collection of recipes of recipes.
 document:
